@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type_operation: MyString
+  user_id: MyString
+  current_sent: MyString
+  current_received: MyString
+  quantity_sent: 1.5
+  quantity_received: 1.5
+
+two:
+  type_operation: MyString
+  user_id: MyString
+  current_sent: MyString
+  current_received: MyString
+  quantity_sent: 1.5
+  quantity_received: 1.5
